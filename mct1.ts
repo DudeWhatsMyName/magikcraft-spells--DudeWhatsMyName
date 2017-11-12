@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
 function mct1() {
-	require('mtc1-demo').spells['countdown']();
+	require('mtc1').spells['countdown']();
 }
